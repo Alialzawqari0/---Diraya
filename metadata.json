@@ -1,0 +1,6 @@
+{
+  "name": "دِرَايَة",
+  "description": "أداة بحث في كتب تفسير القرآن الكريم ومقارنة أقوال المفسرين مع النص الأصلي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
